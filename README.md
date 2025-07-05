@@ -20,7 +20,7 @@ A simple Python-based voice assistant that listens to your voice commands, proce
 ### 1. Clone the repository or download the script:
 
 ```bash
-git clone https://github.com/your-username/voice-command-assistant.git
+git clone https://github.com/sujit-codezen/voice_assistance.git
 cd voice-command-assistant
 ```
 
